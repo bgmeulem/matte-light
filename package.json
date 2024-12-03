@@ -2,9 +2,10 @@
   "name": "matte-light",
   "publisher": "bgmeulem",
   "repository": "https://github.com/bgmeulem/matte-light",
-  "displayName": "matte-light",
-  "description": "Matte light theme that doesn't destroy your eyes",
-  "version": "0.0.2",
+  "icon": "assets/logo.png",
+  "displayName": "Matte Light Theme",
+  "description": "Clean and minimal light theme that doesn't destroy your eyes",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.95.0"
   },
