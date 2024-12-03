@@ -1,0 +1,22 @@
+{
+  "name": "matte-light",
+  "publisher": "bgmeulem",
+  "displayName": "matte-light",
+  "description": "Matte light theme that doesn't destroy your eyes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matte Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Matte Light Theme-color-theme.json"
+      }
+    ]
+  }
+}
