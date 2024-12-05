@@ -20,7 +20,7 @@
       {
         "label": "Matte Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/matte-light-theme-colors.jsonc"
+        "path": "./themes/matte-light-theme-colors.json"
       }
     ]
   }
