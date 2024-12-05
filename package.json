@@ -5,7 +5,10 @@
   "icon": "assets/logo.png",
   "displayName": "Matte Light Theme",
   "description": "Clean and minimal light theme that doesn't destroy your eyes",
-  "version": "0.0.6",
+  "version": "0.0.7",
+  "scripts": {
+    "test": "vsce package && code --install-extension matte-light-0.0.7.vsix"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
